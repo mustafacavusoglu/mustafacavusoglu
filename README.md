@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on deep learning (Computer Vision)
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me:
-  mail: mustafacavussoglu@gmail.com \n
+  mail: mustafacavussoglu@gmail.com
   twitter: https://twitter.com/mustdo1247
 
 
