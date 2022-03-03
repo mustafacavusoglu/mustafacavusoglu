@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on deep learning (Computer Vision)
-- 🌱 I’m currently learning NLP
+- 🔭 I’m currently working on deep learning (Computer Vision) and Flutter
 - 📫 How to reach me:
   - mail: mustafacavussoglu@gmail.com
   - twitter: https://twitter.com/mustdo1247
