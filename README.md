@@ -10,7 +10,7 @@
 |![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)
 
 
-[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/mustafacavusoglu)
+[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafacavusoglu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/mustafacavusoglu)
 
 <!---
 If you like what I do and want me to build more such projects, maybe considering supporting me on PayPal or buying me a coffee :pleading_face:
