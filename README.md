@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 - 🔭 I’m currently working on deep learning (Computer Vision)
@@ -6,8 +6,11 @@
   - mail: mustafacavussoglu@gmail.com
   - twitter: https://twitter.com/mustdo1247
 
-### My top technologies
-![ ](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)![ ](https://img.shields.io/badge/-Torch-black?logo=pytorch&style=plastic)
+## My top technologies
+
+![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)
+![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)
+![ ](https://img.shields.io/badge/-Torch-black?logo=pytorch&style=plastic)
 
 
 [![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafacavusoglu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/mustafacavusoglu)
