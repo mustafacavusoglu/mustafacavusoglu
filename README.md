@@ -6,31 +6,7 @@
   - mail: mustafacavussoglu@gmail.com
   - twitter: https://twitter.com/mustdo1247
 
-
-<!--
-**mustafacavusoglu/mustafacavusoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<!---
-Please consider starring the repo if you find this useful in any manner
-or use it. It helps me a lot.
--->
-
-<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
- 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli) 
-[![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli) 
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
-[![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
-[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
-
-> Note: This is not my real contribution graph :laughing:
-
 ### My top technologies
-
 |![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)
 
 
