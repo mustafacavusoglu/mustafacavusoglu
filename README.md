@@ -29,31 +29,10 @@ or use it. It helps me a lot.
 
 > Note: This is not my real contribution graph :laughing:
 
-Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI enthusiast from 
-[Mumbai, India](https://www.google.com/maps/place/Rishit+Dagli/@19.2115497,72.8411235,15z/data=!4m5!3m4!1s0x0:0xf3ed3bb225394f3c!8m2!3d19.2115497!4d72.8411235) :india:
+### My top technologies
 
-### My top 10 technologies
+|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)
 
-|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)|![](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic)|![](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&style=plastic)|![](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=plastic)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/-Android-black?logo=android&style=plastic)|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)|![](https://img.shields.io/badge/-Arduino-black?logo=arduino&style=plastic)|
-
-### 📕 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Use GitHub Super Linter in Your Projects](https://medium.com/@rishit.dagli/how-to-use-github-super-linter-in-your-projects-25b35fade7fd?source=rss-e7d740ac1a25------2)
-- [Kubeflow Notebooks: ML Experimentation Made Easier — Part 2](https://medium.com/@rishit.dagli/kubeflow-notebooks-ml-experimentation-made-easier-part-2-117a45dec52c?source=rss-e7d740ac1a25------2)
-- [Kubeflow: Machine Learning on Kubernetes — Part 1](https://medium.com/@rishit.dagli/kubeflow-machine-learning-on-kubernetes-part-1-8f657115d0e9?source=rss-e7d740ac1a25------2)
-- [Skewness and Kurtosis — Positively Skewed and Negatively Skewed Distributions in Statistics…](https://medium.com/@rishit.dagli/skewness-and-kurtosis-positively-skewed-and-negatively-skewed-distributions-in-statistics-95515891439a?source=rss-e7d740ac1a25------2)
-- [How to Monitor Machine Learning Projects on Your Mobile Device](https://medium.com/@rishit.dagli/how-to-monitor-machine-learning-projects-on-your-mobile-device-9f9ed1f9e38b?source=rss-e7d740ac1a25------2)
-<!-- BLOG-POST-LIST:END -->
-
-<!--- 
-### Tech communities
-
-|Organizer|Organizer|Mentor|
-|---------|---------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
--->
 
 [![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/mustafacavusoglu)
 
